@@ -1,7 +1,7 @@
 **PRIVACY POLICY**
 *Last updated April 21, 2024*
 
-This privacy notice for Pocket Buddies ("we," "us," or "our"), describes how and why
+This privacy notice for PocketBuddies ("we," "us," or "our"), describes how and why
 
 we might collect, store, use, and/or share ("process") your information when you use
 
@@ -19,7 +19,7 @@ privacy rights and choices. If you do not agree with our policies and practices,
 
 do not use our Services. If you still have any questions or concerns, please contact us
 
-at privacy@pme.me.
+at pocketbuddiespm.me.
 
 **SUMMARY OF KEY POINTS**
 This summary provides key points from our privacy notice, but you can find out
@@ -347,7 +347,7 @@ information conducted in reliance on lawful processing grounds other than consen
 
 If you have questions or comments about your privacy rights, you may email us at
 
-privacy@pme.me.
+pocketbuddies@pm.me.
 
 **CONTROLS FOR DO-NOT-TRACK FEATURES**
 
@@ -398,4 +398,4 @@ DATA WE COLLECT FROM YOU?**
 
 You have the right to request access to the personal information we collect from you,
 
-change that information, or delete it. To request to review, update, or delete your data contact us at pocketbuddies@pm.me
+change that information, or delete it. To request to review, update, or delete your data contact us at pocketbuddiespm.me
